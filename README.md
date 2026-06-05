@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # LoL Pro Match Predictor
 
 A machine learning project that predicts the outcome of professional League of Legends matches based on champion picks using Node2Vec graph embeddings.
