@@ -19,13 +19,6 @@ Data sourced from [Oracle's Elixir](https://oracleselixir.com/tools/downloads). 
 | Random Forest (one-hot) | 48.7% |
 | **GB + Node2Vec Embeddings** | **51.4%** |
 
-## Repository Structure
-
-├── lol_match_predictor.ipynb   # Main notebook (EDA, modeling, results)
-├── app.py                      # Streamlit demo (run locally)
-├── lol_games_cleaned.csv       # Cleaned dataset
-├── model_artifacts.pkl         # Saved model and embeddings
-└── README.md
 
 ## How to Run
 
